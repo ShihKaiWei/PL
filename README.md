@@ -11,5 +11,6 @@
 >課程筆記區
 
 >作業連結區
+[作業一](https://github.com/ShihKaiWei/PL/blob/main/HW1/HW1.ipynb)
 
 >專題連結區
