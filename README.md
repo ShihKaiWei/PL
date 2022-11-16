@@ -18,6 +18,6 @@
 
 + [作業三](https://github.com/ShihKaiWei/PL/blob/main/HW3/HW3.ipynb)    [csv&json檔](https://github.com/ShihKaiWei/PL/tree/main/HW3)
 
-+ [作業四]()
++ [作業四](https://github.com/ShihKaiWei/PL/tree/main/HW4/HW4.ipynb)    [medium連結](https://medium.com/@jasonwei1215/身為大學生的你想認識琳瑯滿目的科系嗎-e8d51e703c72)
 
 >專題連結區
