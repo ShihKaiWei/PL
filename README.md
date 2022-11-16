@@ -16,6 +16,8 @@
 
 + [作業二](https://github.com/ShihKaiWei/PL/blob/main/HW2/HW2.ipynb)
 
-+ [作業三](https://github.com/ShihKaiWei/PL/blob/main/HW3/HW3.ipynb)
++ [作業三](https://github.com/ShihKaiWei/PL/blob/main/HW3/HW3.ipynb)    [csv&json檔](https://github.com/ShihKaiWei/PL/tree/main/HW3)
+
++ [作業四]()
 
 >專題連結區
